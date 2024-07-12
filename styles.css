@@ -1,6 +1,16 @@
-* {text-align: center;}
+* {text-align: center; outline:}
 body {background-color: rgb(68, 13, 34);}
 h1 {color: rgb(196, 137, 82);}
 #recipe {color: rgb(196, 137, 82); font-size: 35px;}
 p {color: antiquewhite;}
-.recipe-links {background-color: rgb(230, 133, 197); font-size: 20px;}
+
+.title {
+    margin: auto 500px;
+}
+.recipe-lists { 
+    background-color: rgb(230, 133, 197); 
+    margin: auto 700px;
+    font-size: 20px;
+    padding: 8px;
+}
+
